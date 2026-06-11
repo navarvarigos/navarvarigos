@@ -6,8 +6,7 @@ Physics Graduate | Energy Analytics | Renewable Energy Forecasting | Aspiring En
 
 I am a Physics graduate from the University of Crete with a strong interest in energy analytics, renewable energy forecasting, energy markets and quantitative risk analysis.
 
-My recent work focuses on applying data analytics and machine learning techniques to energy-related problems, including renewable generation forecasting, imbalance-cost analysis and risk assessment.
-
+My recent work focuses on energy forecasting, imbalance-cost analysis and risk assessment using data analytics and machine learning techniques.
 ## Education
 
 * BSc Physics, University of Crete
