@@ -11,7 +11,7 @@ My recent work focuses on applying data analytics and machine learning technique
 ## Education
 
 * BSc Physics, University of Crete
-* IBM Data Analyst Professional Certificate (in progress)
+* IBM Data Analyst Professional Certificate (9/11 courses completed)
 
 ## Areas of Interest
 
