@@ -1,16 +1,42 @@
-## Hi there 👋
+# Nikolaos Antonios Varvarigos
 
-<!--
-**navarvarigos/navarvarigos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics Graduate | Energy Analytics | Renewable Energy Forecasting | Aspiring Energy Markets Professional
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Physics graduate from the University of Crete with a strong interest in energy analytics, renewable energy forecasting, energy markets and quantitative risk analysis.
+
+My recent work focuses on applying data analytics and machine learning techniques to energy-related problems, including renewable generation forecasting, imbalance-cost analysis and risk assessment.
+
+## Education
+
+* BSc Physics, University of Crete
+* IBM Data Analyst Professional Certificate (in progress)
+
+## Areas of Interest
+
+* Energy Trading
+* Power Markets
+* Renewable Energy Forecasting
+* Energy Risk Management
+* Data Analytics
+* Machine Learning
+
+## Featured Projects
+
+### Renewable Energy Forecasting
+
+Physics-informed machine learning for renewable power generation forecasting.
+
+### Solar Imbalance Physics ML Risk 1H
+
+Forecasting renewable generation and imbalance-cost exposure using machine learning techniques.
+
+### Solar Imbalance Stress Test Risk Framework
+
+Scenario analysis and risk assessment framework for renewable-energy forecasting uncertainty.
+
+## Location
+
+Zakynthos, Greece
+
